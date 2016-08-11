@@ -1,9 +1,6 @@
 Date
 ====
-[![GitHub issues](https://img.shields.io/github/issues/andhikamaheva/date.svg)](https://github.com/andhikamaheva/date/issues)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/andhikamaheva/date/master/LICENSE)
-
-[![Latest Stable Version](http://img.shields.io/github/release/andhikamaheva/date.svg)](https://packagist.org/packages/andhikamaheva/date) 
+[![Latest Stable Version](http://img.shields.io/github/release/andhikamaheva/date.svg)](https://packagist.org/packages/andhikamaheva/date)[![GitHub issues](https://img.shields.io/github/issues/andhikamaheva/date.svg)](https://github.com/andhikamaheva/date/issues)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/andhikamaheva/date/master/LICENSE)[![Total Downloads](http://img.shields.io/packagist/dm/andhikamaheva/date.svg)](https://packagist.org/packages/andhikamaheva/date) [![Build Status](http://img.shields.io/travis/andhikamaheva/date.svg)](https://travis-ci.org/andhikamaheva/date)[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/andhikamaheva)
 
 This date library extends [Carbon](https://github.com/briannesbitt/Carbon) with multi-language support. Methods such as `format`, `diffForHumans`, `parse`, `createFromFormat` and the new `timespan`, will now be translated based on your locale.
 
