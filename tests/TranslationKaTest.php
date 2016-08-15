@@ -1,6 +1,6 @@
 <?php
 
-use Jenssegers\Date\Date;
+use AndhikaMaheva\Date\Date;
 
 class TranslationKaTest extends PHPUnit_Framework_TestCase
 {
