@@ -1,6 +1,6 @@
 <?php
 
-use Jenssegers\Date\Date;
+use AndhikaMaheva\Date\Date;
 use Symfony\Component\Translation\MessageSelector;
 
 class AutomaticTest extends PHPUnit_Framework_TestCase
