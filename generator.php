@@ -1,7 +1,7 @@
 <?php
 require 'vendor/autoload.php';
 
-use Andh\Date\Date;
+use AndhikaMaheva\Date\Date;
 
 // Set the language
 setlocale(LC_ALL, $argv[1] ?: 'en');
