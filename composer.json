@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jenssegers\\Date\\": "src/"
+            "AndhikaMaheva\\Date\\": "src/"
         }
     },
     "extra": {
